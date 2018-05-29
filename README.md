@@ -1,6 +1,6 @@
 # multi-label-scene-classification
 
-This repo is focus on multi-labbel scene classification and gives 2 methods. The dataset is from [here](https://suraj-deshmukh.github.io/Multi-Label-Image-Classification/).
+This repo is focus on multi-labbel scene classification and gives 2 methods. The dataset is from [here](http://lamda.nju.edu.cn/data_MIMLimage.ashx?AspxAutoDetectCookieSupport=1).
 
 ## construct a deep learning model
 This solution is mainly from [here](https://github.com/suraj-deshmukh/Multi-Label-Image-Classification), and I managed to
